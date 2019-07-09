@@ -10,6 +10,11 @@ use App\Entity\Currency;
 class RussianCentralBank extends AbstractProvider
 {
     /**
+     * Приоритет опроса источника
+     */
+    protected $priority = 0;
+
+    /**
      * Возврат базовой валюты источника курса.
      * Т.е. в списке, полученном с источника указано: 1 единица валюты = X единиц базовой.
      *

@@ -56,8 +56,33 @@ class Provider
                 }
             }
         }
-
+        foreach (array_keys(self::$providers) as $key => $item) {
+            $provider = Provider::getProvider($item);
+            $priority[$key] = $provider->getPriority();
+            $providers[$key] = $item;
+        }
+        array_multisort($priority, SORT_ASC, $providers);
+        var_dump($providers);
+        exit;
         return self::$providers;
+    }
+
+    /**
+     * Получение отсортированного по приоритету списка доступных провайдеров.
+     *
+     * @return array Код
+     */
+    public static function getSortedProviders(): array
+    {
+        foreach (array_keys(self::getProviders()) as $key => $item) {
+            $provider = Provider::getProvider($item);
+            $priority[$key] = $provider->getPriority();
+            $providers[$key] = $item;
+        }
+        array_multisort($priority, SORT_ASC, $providers);
+        var_dump(self::$providers);
+        exit;
+        return $providers;
     }
 
     /**

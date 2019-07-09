@@ -54,6 +54,13 @@ interface ProviderInterface
     public function setPriority(int $priority): ProviderInterface;
 
     /**
+     * Получение приоритета.
+     *
+     * @return int $priority Значение.
+     */
+    public function getPriority(): int;
+
+    /**
      * Возврат базовой валюты источника курса.
      * Т.е. в списке, полученном с источника указано: 1 единица валюты = X единиц базовой.
      *

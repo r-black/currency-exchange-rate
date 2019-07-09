@@ -16,6 +16,10 @@ class CurrencyController extends AbstractController
     {
         $euro = new Currency(Currency::EUR);
         $rub = new Currency(Currency::RUB);
+        $cmr = Provider::getProvider('RussianCentralBank');
+        $cmr->setPriority(1);
+        // print_r($cmr);
+        // exit;
 
         foreach (array_keys(Provider::getProviders()) as $key => $item) {
             if($key == 0){

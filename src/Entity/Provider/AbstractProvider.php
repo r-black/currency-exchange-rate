@@ -96,6 +96,14 @@ abstract class AbstractProvider implements ProviderInterface
         return $this;
     }
 
+    /**
+     * @return int $priority Значение.
+     */
+    public function getPriority(): int
+    {
+        return $this->priority;
+    }
+
 
     /**
      * Возврат всех курсов валют по отношению к указанной.
