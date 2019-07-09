@@ -16,6 +16,9 @@ abstract class AbstractProvider implements ProviderInterface
     /** @var integer Время жизни кэша. */
     protected $ttl = null;
 
+    /** @var integer Приоритет опроса источника. */
+    protected $priority = 0;
+
     /** @var array Кэш. */
     protected static $cache = [];
 
@@ -25,10 +28,11 @@ abstract class AbstractProvider implements ProviderInterface
      * @param integer $scale OPTIONAL Точность операций BC Math.
      * @param integer $ttl   OPTIONAL Время жизни кэша.
      */
-    public function __construct(int $scale = self::DEFAULT_SCALE, int $ttl = self::DEFAULT_TTL)
+    public function __construct(int $scale = self::DEFAULT_SCALE, int $ttl = self::DEFAULT_TTL, int $priority = self::DEFAULT_PRIORITY)
     {
         $this->setScale($scale);
         $this->setTimeToLive($ttl);
+        $this->setPriority($priority);
     }
 
     /**
@@ -73,10 +77,29 @@ abstract class AbstractProvider implements ProviderInterface
         return $this;
     }
 
+    /**
+     * Установка времени приоритета опроса источника.
+     *
+     * @param integer $priority Значение.
+     *
+     * @throws App\Entity\Exception
+     *
+     * @return $this
+     */
+    public function setPriority(int $priority): ProviderInterface
+    {
+        if ($priority < 0) {
+            throw new Exception("Неправильное значение PRIORITY: {$priority}.");
+        }
+
+        $this->priority = $priority;
+        return $this;
+    }
+
 
     /**
-     * Возврат всех курсова валют по отношению к указанной.
-     * Если валюта не укзана - используется базовая для данного источника курсов.
+     * Возврат всех курсов валют по отношению к указанной.
+     * Если валюта не указана - используется базовая для данного источника курсов.
      * Список будет содержать записи вида: 1 единица валюты = X единиц базовой (или указанной).
      * Например, источник для евро будет содержать записи вида: 1RUB = 1/60EUR, 1EUR = 1.1USD и т.п.
      *

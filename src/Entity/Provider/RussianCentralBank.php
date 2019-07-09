@@ -45,18 +45,11 @@ class RussianCentralBank extends AbstractProvider
     {
         // источник хранит информацию вида:
         // 1 EUR = 70 RUB, 100 INR = 90 RUB
-        $curlSession = curl_init();
-        curl_setopt($curlSession, CURLOPT_URL, $source);
-        curl_setopt($curlSession, CURLOPT_BINARYTRANSFER, true);
-        curl_setopt($curlSession, CURLOPT_RETURNTRANSFER, true);
-        
-        $jsonData = json_decode(curl_exec($curlSession));
-        curl_close($curlSession);
-        $rates = [];
-        foreach ($jsonData->Valute as $rate) {
-            $code    = (string) $rate->CharCode[0];
-            $nominal = (int) $rate->Nominal[0];
-            $value   = strtr($rate->Value[0], [',' => '.']);
+        $data = json_decode($source);
+        foreach ($data->Valute as $rate) {
+            $code    = (string) $rate->CharCode;
+            $nominal = (int) $rate->Nominal;
+            $value   = strtr($rate->Value, [',' => '.']);
             $rates[$code] = bcdiv($value, $nominal, self::DEFAULT_SCALE);
         }
         return $rates;

@@ -15,13 +15,16 @@ interface ProviderInterface
     /** Время жизни кэша по умолчанию. */
     const DEFAULT_TTL = 300;
 
+    /** Приоритет опроса источника по умолчанию. */
+    const DEFAULT_PRIORITY = 0;
+
     /**
      * Конструктор.
      *
      * @param integer $scale OPTIONAL Точность операций BC Math.
      * @param integer $ttl   OPTIONAL Время жизни кэша.
      */
-    public function __construct(int $scale = self::DEFAULT_SCALE, int $ttl = self::DEFAULT_TTL);
+    public function __construct(int $scale = self::DEFAULT_SCALE, int $ttl = self::DEFAULT_TTL, int $priority = self::DEFAULT_PRIORITY);
 
     /**
      * Установка точности операций BC Math.
@@ -40,6 +43,15 @@ interface ProviderInterface
      * @return $this
      */
     public function setTimeToLive(int $ttl): ProviderInterface;
+
+    /**
+     * Установка приоритета.
+     *
+     * @param integer $priority Значение.
+     *
+     * @return $this
+     */
+    public function setPriority(int $priority): ProviderInterface;
 
     /**
      * Возврат базовой валюты источника курса.

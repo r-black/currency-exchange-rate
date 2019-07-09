@@ -5,6 +5,7 @@ namespace App\Entity;
 use App\Entity\Provider\ProviderInterface;
 
 use \ReflectionClass;
+use App\Entity\Provider\AbstractProvider;
 
 /**
  * Источник курса валют.
