@@ -1,7 +1,12 @@
-# currency-exchange-rate
+## currency-exchange-rate
 INSTALLATION STEPS:
-git clone https://github.com/r-black/currency-exchange-rate.git
-cd currency-exchange-rate\
-composer install
-php bin/console server:run
-open http://localhost:8000/rate/euro
+
+1) git clone https://github.com/r-black/currency-exchange-rate.git
+
+2) cd currency-exchange-rate\
+
+3) composer install
+
+4) php bin/console server:run
+
+5) open http://localhost:8000/rate/euro
