@@ -21,13 +21,13 @@ class RateController extends AbstractController
      */
     const ECB = 'EuropeanCentralBank';
 
-    /**
-     * конструктор данных источников
-     */
-    private function __construct()
-    {
+    // /**
+    //  * конструктор данных источников
+    //  */
+    // private function __construct()
+    // {
 
-    }
+    // }
 
     /**
      * @Route("/rate/euro")
@@ -36,7 +36,7 @@ class RateController extends AbstractController
     {
         $euro = new Currency(Currency::EUR);
         $rub = new Currency(Currency::RUB);
-        $cmr = Provider::getProvider(RateController::CBR);
+        $cmr = Provider::getProvider('RussianCentralBank');
         $ecb = Provider::getProvider('EuropeanCentralBank');
         $cmr->setPriority(0);
         $ecb->setPriority(1);
