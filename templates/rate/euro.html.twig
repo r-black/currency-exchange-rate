@@ -1,0 +1,14 @@
+<div id="rate">
+  {{ include('rate/euro_ajax.html.twig') }}
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+  setInterval(function () {
+    $.ajax({
+      method: 'POST',
+      url: "/rate/euro_ajax"
+    }).done(function (data) {
+      $('#rate').html(data);
+    });
+  }, 10000);
+</script>

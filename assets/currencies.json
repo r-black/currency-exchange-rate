@@ -1,0 +1,2402 @@
+{
+    "AUD": {
+        "title": "Доллар (австралийский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/AUD",
+        "icon": "$",
+        "name": "Australian Dollar",
+        "code": "AUD",
+        "countries": [
+            {
+                "title": "Австралия",
+                "wiki": "https://ru.wikipedia.org/wiki/Австралия"
+            },
+            {
+                "title": "Кирибати",
+                "wiki": "https://ru.wikipedia.org/wiki/Кирибати"
+            },
+            {
+                "title": "Кокосовые острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Кокосовые_острова"
+            },
+            {
+                "title": "Науру",
+                "wiki": "https://ru.wikipedia.org/wiki/Науру"
+            },
+            {
+                "title": "Остров Норфолк",
+                "wiki": "https://ru.wikipedia.org/wiki/Остров_Норфолк"
+            },
+            {
+                "title": "Остров Рождества",
+                "wiki": "https://ru.wikipedia.org/wiki/Остров_Рождества_(Австралия)"
+            },
+            {
+                "title": "Херд и Макдональд",
+                "wiki": "https://ru.wikipedia.org/wiki/Остров_Херд_и_Острова_Макдоналд"
+            },
+            {
+                "title": "Тувалу",
+                "wiki": "https://ru.wikipedia.org/wiki/Тувалу"
+            }
+        ]
+    },
+    "EUR": {
+        "title": "Евро",
+        "wiki": "https://ru.wikipedia.org/wiki/Евро",
+        "icon": "€",
+        "name": "Euro",
+        "code": "EUR",
+        "countries": [
+            {
+                "title": "Австрия",
+                "wiki": "https://ru.wikipedia.org/wiki/Австрия"
+            },
+            {
+                "title": "Аландские острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Аландские_острова"
+            },
+            {
+                "title": "Андорра",
+                "wiki": "https://ru.wikipedia.org/wiki/Андорра"
+            },
+            {
+                "title": "Бельгия",
+                "wiki": "https://ru.wikipedia.org/wiki/Бельгия"
+            },
+            {
+                "title": "Ватикан",
+                "wiki": "https://ru.wikipedia.org/wiki/Ватикан"
+            },
+            {
+                "title": "Гваделупа",
+                "wiki": "https://ru.wikipedia.org/wiki/Гваделупа"
+            },
+            {
+                "title": "Германия",
+                "wiki": "https://ru.wikipedia.org/wiki/Германия"
+            },
+            {
+                "title": "Греция",
+                "wiki": "https://ru.wikipedia.org/wiki/Греция"
+            },
+            {
+                "title": "Евросоюз",
+                "wiki": "https://ru.wikipedia.org/wiki/Евросоюз"
+            },
+            {
+                "title": "Ирландия",
+                "wiki": "https://ru.wikipedia.org/wiki/Ирландия"
+            },
+            {
+                "title": "Испания",
+                "wiki": "https://ru.wikipedia.org/wiki/Испания"
+            },
+            {
+                "title": "Италия",
+                "wiki": "https://ru.wikipedia.org/wiki/Италия"
+            },
+            {
+                "title": "Кипр",
+                "wiki": "https://ru.wikipedia.org/wiki/Республика_Кипр"
+            },
+            {
+                "title": "Латвия",
+                "wiki": "https://ru.wikipedia.org/wiki/Латвия"
+            },
+            {
+                "title": "Литва",
+                "wiki": "https://ru.wikipedia.org/wiki/Литва"
+            },
+            {
+                "title": "Люксембург",
+                "wiki": "https://ru.wikipedia.org/wiki/Люксембург"
+            },
+            {
+                "title": "Майотта",
+                "wiki": "https://ru.wikipedia.org/wiki/Майотта"
+            },
+            {
+                "title": "Мальта",
+                "wiki": "https://ru.wikipedia.org/wiki/Мальта"
+            },
+            {
+                "title": "Мартиника",
+                "wiki": "https://ru.wikipedia.org/wiki/Мартиника"
+            },
+            {
+                "title": "Монако",
+                "wiki": "https://ru.wikipedia.org/wiki/Монако"
+            },
+            {
+                "title": "Нидерланды",
+                "wiki": "https://ru.wikipedia.org/wiki/Нидерланды"
+            },
+            {
+                "title": "Португалия",
+                "wiki": "https://ru.wikipedia.org/wiki/Португалия"
+            },
+            {
+                "title": "Реюньон",
+                "wiki": "https://ru.wikipedia.org/wiki/Реюньон"
+            },
+            {
+                "title": "Сан-Марино",
+                "wiki": "https://ru.wikipedia.org/wiki/Сан-Марино"
+            },
+            {
+                "title": "Сен-Бартелеми",
+                "wiki": "https://ru.wikipedia.org/wiki/Сен-Бартелеми"
+            },
+            {
+                "title": "Сен-Мартен",
+                "wiki": "https://ru.wikipedia.org/wiki/Сен-Мартен_(Франция)"
+            },
+            {
+                "title": "Сен-Пьер и Микелон",
+                "wiki": "https://ru.wikipedia.org/wiki/Сен-Пьер_и_Микелон"
+            },
+            {
+                "title": "Словакия",
+                "wiki": "https://ru.wikipedia.org/wiki/Словакия"
+            },
+            {
+                "title": "Словения",
+                "wiki": "https://ru.wikipedia.org/wiki/Словения"
+            },
+            {
+                "title": "Финляндия",
+                "wiki": "https://ru.wikipedia.org/wiki/Финляндия"
+            },
+            {
+                "title": "Франция",
+                "wiki": "https://ru.wikipedia.org/wiki/Франция"
+            },
+            {
+                "title": "Гвиана",
+                "wiki": "https://ru.wikipedia.org/wiki/Гвиана_(департамент_Франции)"
+            },
+            {
+                "title": "Французские Южные и Антарктические территории",
+                "wiki": "https://ru.wikipedia.org/wiki/Французские_Южные_и_Антарктические_Территории"
+            },
+            {
+                "title": "Черногория",
+                "wiki": "https://ru.wikipedia.org/wiki/Черногория"
+            },
+            {
+                "title": "Эстония",
+                "wiki": "https://ru.wikipedia.org/wiki/Эстония"
+            }
+        ]
+    },
+    "AZN": {
+        "title": "Манат (азербайджанский манат)",
+        "wiki": "https://ru.wikipedia.org/wiki/Азербайджанский_манат",
+        "icon": "₼",
+        "name": "Azerbaijanian Manat",
+        "code": "AZN",
+        "countries": [
+            {
+                "title": "Азербайджан",
+                "wiki": "https://ru.wikipedia.org/wiki/Азербайджан"
+            }
+        ]
+    },
+    "ALL": {
+        "title": "Лек",
+        "wiki": "https://ru.wikipedia.org/wiki/Лек",
+        "icon": "L",
+        "name": "Lek",
+        "code": "ALL",
+        "countries": [
+            {
+                "title": "Албания",
+                "wiki": "https://ru.wikipedia.org/wiki/Албания"
+            }
+        ]
+    },
+    "DZD": {
+        "title": "Динар (алжирский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Алжирский_динар",
+        "icon": ".د.ج • DA",
+        "name": "Algerian Dinar",
+        "code": "DZD",
+        "countries": [
+            {
+                "title": "Алжир",
+                "wiki": "https://ru.wikipedia.org/wiki/Алжир"
+            }
+        ]
+    },
+    "USD": {
+        "title": "Доллар (доллар США)",
+        "wiki": "https://ru.wikipedia.org/wiki/USD",
+        "icon": "$",
+        "name": "US Dollar",
+        "code": "USD",
+        "countries": [
+            {
+                "title": "Американское Самоа",
+                "wiki": "https://ru.wikipedia.org/wiki/Американское_Самоа"
+            },
+            {
+                "title": "Бонэйр",
+                "wiki": "https://ru.wikipedia.org/wiki/Бонэйр"
+            },
+            {
+                "title": "Британская территория в Индийском океане",
+                "wiki": "https://ru.wikipedia.org/wiki/Британская_территория_в_Индийском_океане"
+            },
+            {
+                "title": "Британские Виргинские острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Британские_Виргинские_острова"
+            },
+            {
+                "title": "Американские Виргинские острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Американские_Виргинские_острова"
+            },
+            {
+                "title": "Гуам",
+                "wiki": "https://ru.wikipedia.org/wiki/Гуам"
+            },
+            {
+                "title": "Внешние малые острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Внешние_малые_острова_(США)"
+            },
+            {
+                "title": "Маршалловы Острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Маршалловы_Острова"
+            },
+            {
+                "title": "Микронезия",
+                "wiki": "https://ru.wikipedia.org/wiki/Федеративные_Штаты_Микронезии"
+            },
+            {
+                "title": "Тёркс и Кайкос",
+                "wiki": "https://ru.wikipedia.org/wiki/Тёркс_и_Кайкос"
+            },
+            {
+                "title": "Палау",
+                "wiki": "https://ru.wikipedia.org/wiki/Палау"
+            },
+            {
+                "title": "Пуэрто-Рико",
+                "wiki": "https://ru.wikipedia.org/wiki/Пуэрто-Рико"
+            },
+            {
+                "title": "Саба",
+                "wiki": "https://ru.wikipedia.org/wiki/Саба_(остров)"
+            },
+            {
+                "title": "Северные Марианские острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Северные_Марианские_острова"
+            },
+            {
+                "title": "Синт-Эстатиус",
+                "wiki": "https://ru.wikipedia.org/wiki/Синт-Эстатиус"
+            },
+            {
+                "title": "США",
+                "wiki": "https://ru.wikipedia.org/wiki/Соединённые_Штаты_Америки"
+            },
+            {
+                "title": "Восточный Тимор",
+                "wiki": "https://ru.wikipedia.org/wiki/Восточный_Тимор"
+            },
+            {
+                "title": "Эквадор",
+                "wiki": "https://ru.wikipedia.org/wiki/Эквадор"
+            }
+        ]
+    },
+    "XCD": {
+        "title": "Доллар (восточно-карибский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/XCD",
+        "icon": "$",
+        "name": "East Caribbean Dollar",
+        "code": "XCD",
+        "countries": [
+            {
+                "title": "Ангилья",
+                "wiki": "https://ru.wikipedia.org/wiki/Ангилья"
+            },
+            {
+                "title": "Антигуа и Барбуда",
+                "wiki": "https://ru.wikipedia.org/wiki/Антигуа_и_Барбуда"
+            },
+            {
+                "title": "Гренада",
+                "wiki": "https://ru.wikipedia.org/wiki/Гренада"
+            },
+            {
+                "title": "Доминика",
+                "wiki": "https://ru.wikipedia.org/wiki/Доминика"
+            },
+            {
+                "title": "Монтсеррат",
+                "wiki": "https://ru.wikipedia.org/wiki/Монтсеррат"
+            },
+            {
+                "title": "Сент-Винсент и Гренадины",
+                "wiki": "https://ru.wikipedia.org/wiki/Сент-Винсент_и_Гренадины"
+            },
+            {
+                "title": "Сент-Китс и Невис",
+                "wiki": "https://ru.wikipedia.org/wiki/Сент-Китс_и_Невис"
+            },
+            {
+                "title": "Сент-Люсия",
+                "wiki": "https://ru.wikipedia.org/wiki/Сент-Люсия"
+            }
+        ]
+    },
+    "AOA": {
+        "title": "Кванза",
+        "wiki": "https://ru.wikipedia.org/wiki/Кванза_(валюта)",
+        "icon": "Kz",
+        "name": "Kwanza",
+        "code": "AOA",
+        "countries": [
+            {
+                "title": "Ангола",
+                "wiki": "https://ru.wikipedia.org/wiki/Ангола"
+            }
+        ]
+    },
+    "ARS": {
+        "title": "Песо (аргентинское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Аргентинское_песо",
+        "icon": "$",
+        "name": "Argentine Peso",
+        "code": "ARS",
+        "countries": [
+            {
+                "title": "Аргентина",
+                "wiki": "https://ru.wikipedia.org/wiki/Аргентина"
+            }
+        ]
+    },
+    "AMD": {
+        "title": "Драм (армянский драм)",
+        "wiki": "https://ru.wikipedia.org/wiki/Армянский_драм",
+        "icon": "֏",
+        "name": "Armenian Dram",
+        "code": "AMD",
+        "countries": [
+            {
+                "title": "Армения",
+                "wiki": "https://ru.wikipedia.org/wiki/Армения"
+            }
+        ]
+    },
+    "AWG": {
+        "title": "Флорин (арубанский флорин)",
+        "wiki": "https://ru.wikipedia.org/wiki/Арубанский_флорин",
+        "icon": "ƒ",
+        "name": "Aruban Guilder",
+        "code": "AWG",
+        "countries": [
+            {
+                "title": "Аруба",
+                "wiki": "https://ru.wikipedia.org/wiki/Аруба"
+            }
+        ]
+    },
+    "AFN": {
+        "title": "Афгани",
+        "wiki": "https://ru.wikipedia.org/wiki/Афгани",
+        "icon": "؋",
+        "name": "Afghani",
+        "code": "AFN",
+        "countries": [
+            {
+                "title": "Афганистан",
+                "wiki": "https://ru.wikipedia.org/wiki/Афганистан"
+            }
+        ]
+    },
+    "BSD": {
+        "title": "Доллар (багамский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Багамский_доллар",
+        "icon": "$",
+        "name": "Bahamian Dollar",
+        "code": "BSD",
+        "countries": [
+            {
+                "title": "Багамы",
+                "wiki": "https://ru.wikipedia.org/wiki/Багамские_Острова"
+            }
+        ]
+    },
+    "BDT": {
+        "title": "Така",
+        "wiki": "https://ru.wikipedia.org/wiki/Бангладешская_така",
+        "icon": "৳",
+        "name": "Taka",
+        "code": "BDT",
+        "countries": [
+            {
+                "title": "Бангладеш",
+                "wiki": "https://ru.wikipedia.org/wiki/Бангладеш"
+            }
+        ]
+    },
+    "BBD": {
+        "title": "Доллар (барбадосский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Барбадосский_доллар",
+        "icon": "$",
+        "name": "Barbados Dollar",
+        "code": "BBD",
+        "countries": [
+            {
+                "title": "Барбадос",
+                "wiki": "https://ru.wikipedia.org/wiki/Барбадос"
+            }
+        ]
+    },
+    "BHD": {
+        "title": "Динар (бахрейнский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Бахрейнский_динар",
+        "icon": ".د.ب • BD",
+        "name": "Bahraini Dinar",
+        "code": "BHD",
+        "countries": [
+            {
+                "title": "Бахрейн",
+                "wiki": "https://ru.wikipedia.org/wiki/Бахрейн"
+            }
+        ]
+    },
+    "BZD": {
+        "title": "Доллар (белизский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Белизский_доллар",
+        "icon": "$",
+        "name": "Belize Dollar",
+        "code": "BZD",
+        "countries": [
+            {
+                "title": "Белиз",
+                "wiki": "https://ru.wikipedia.org/wiki/Белиз"
+            }
+        ]
+    },
+    "BYN": {
+        "title": "Рубль (белорусский рубль)",
+        "wiki": "https://ru.wikipedia.org/wiki/Белорусский_рубль",
+        "icon": "Br",
+        "name": "Belarussian Ruble",
+        "code": "BYN",
+        "countries": [
+            {
+                "title": "Белоруссия",
+                "wiki": "https://ru.wikipedia.org/wiki/Белоруссия"
+            }
+        ]
+    },
+    "XOF": {
+        "title": "Франк (франк КФА BCEAO)",
+        "wiki": "https://ru.wikipedia.org/wiki/XOF",
+        "icon": "₣",
+        "name": "CFA Franc BCEAO",
+        "code": "XOF",
+        "countries": [
+            {
+                "title": "Бенин",
+                "wiki": "https://ru.wikipedia.org/wiki/Бенин"
+            },
+            {
+                "title": "Буркина-Фасо",
+                "wiki": "https://ru.wikipedia.org/wiki/Буркина-Фасо"
+            },
+            {
+                "title": "Гвинея-Бисау",
+                "wiki": "https://ru.wikipedia.org/wiki/Гвинея-Бисау"
+            },
+            {
+                "title": "Кот-д’Ивуар",
+                "wiki": "https://ru.wikipedia.org/wiki/Кот-д’Ивуар"
+            },
+            {
+                "title": "Мали",
+                "wiki": "https://ru.wikipedia.org/wiki/Мали"
+            },
+            {
+                "title": "Нигер",
+                "wiki": "https://ru.wikipedia.org/wiki/Нигер"
+            },
+            {
+                "title": "Сенегал",
+                "wiki": "https://ru.wikipedia.org/wiki/Сенегал"
+            },
+            {
+                "title": "Того",
+                "wiki": "https://ru.wikipedia.org/wiki/Того"
+            }
+        ]
+    },
+    "BMD": {
+        "title": "Доллар (бермудский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Бермудский_доллар",
+        "icon": "$",
+        "name": "Bermudian Dollar",
+        "code": "BMD",
+        "countries": [
+            {
+                "title": "Бермуды",
+                "wiki": "https://ru.wikipedia.org/wiki/Бермудские_Острова"
+            }
+        ]
+    },
+    "BGN": {
+        "title": "Лев (болгарский лев)",
+        "wiki": "https://ru.wikipedia.org/wiki/Болгарский_лев",
+        "icon": "лв",
+        "name": "Bulgarian Lev",
+        "code": "BGN",
+        "countries": [
+            {
+                "title": "Болгария",
+                "wiki": "https://ru.wikipedia.org/wiki/Болгария"
+            }
+        ]
+    },
+    "BOB": {
+        "title": "Боливиано",
+        "wiki": "https://ru.wikipedia.org/wiki/Боливиано",
+        "icon": "$",
+        "name": "Boliviano",
+        "code": "BOB",
+        "countries": [
+            {
+                "title": "Боливия",
+                "wiki": "https://ru.wikipedia.org/wiki/Боливия"
+            }
+        ]
+    },
+    "BAM": {
+        "title": "Марка (конвертируемая марка)",
+        "wiki": "https://ru.wikipedia.org/wiki/Конвертируемая_марка",
+        "icon": "KM",
+        "name": "Convertible Mark",
+        "code": "BAM",
+        "countries": [
+            {
+                "title": "Босния и Герцеговина",
+                "wiki": "https://ru.wikipedia.org/wiki/Босния_и_Герцеговина"
+            }
+        ]
+    },
+    "BWP": {
+        "title": "Пула",
+        "wiki": "https://ru.wikipedia.org/wiki/Ботсванская_пула",
+        "icon": "P",
+        "name": "Pula",
+        "code": "BWP",
+        "countries": [
+            {
+                "title": "Ботсвана",
+                "wiki": "https://ru.wikipedia.org/wiki/Ботсвана"
+            }
+        ]
+    },
+    "BRL": {
+        "title": "Реал (бразильский реал)",
+        "wiki": "https://ru.wikipedia.org/wiki/Бразильский_реал",
+        "icon": "$",
+        "name": "Brazilian Real",
+        "code": "BRL",
+        "countries": [
+            {
+                "title": "Бразилия",
+                "wiki": "https://ru.wikipedia.org/wiki/Бразилия"
+            }
+        ]
+    },
+    "BND": {
+        "title": "Доллар (брунейский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Брунейский_доллар",
+        "icon": "$",
+        "name": "Brunei Dollar",
+        "code": "BND",
+        "countries": [
+            {
+                "title": "Бруней",
+                "wiki": "https://ru.wikipedia.org/wiki/Бруней"
+            }
+        ]
+    },
+    "BIF": {
+        "title": "Франк (бурундийский франк)",
+        "wiki": "https://ru.wikipedia.org/wiki/Бурундийский_франк",
+        "icon": "₣",
+        "name": "Burundi Franc",
+        "code": "BIF",
+        "countries": [
+            {
+                "title": "Бурунди",
+                "wiki": "https://ru.wikipedia.org/wiki/Бурунди"
+            }
+        ]
+    },
+    "BTN": {
+        "title": "Нгултрум",
+        "wiki": "https://ru.wikipedia.org/wiki/Нгултрум",
+        "icon": "Nu",
+        "name": "Ngultrum",
+        "code": "BTN",
+        "countries": [
+            {
+                "title": "Бутан",
+                "wiki": "https://ru.wikipedia.org/wiki/Бутан"
+            }
+        ]
+    },
+    "VUV": {
+        "title": "Вату",
+        "wiki": "https://ru.wikipedia.org/wiki/Вату",
+        "icon": "Vt",
+        "name": "Vatu",
+        "code": "VUV",
+        "countries": [
+            {
+                "title": "Вануату",
+                "wiki": "https://ru.wikipedia.org/wiki/Вануату"
+            }
+        ]
+    },
+    "HUF": {
+        "title": "Форинт",
+        "wiki": "https://ru.wikipedia.org/wiki/Форинт",
+        "icon": "Ft",
+        "name": "Forint",
+        "code": "HUF",
+        "countries": [
+            {
+                "title": "Венгрия",
+                "wiki": "https://ru.wikipedia.org/wiki/Венгрия"
+            }
+        ]
+    },
+    "VEF": {
+        "title": "Боливар (боливар фуэрте)",
+        "wiki": "https://ru.wikipedia.org/wiki/Боливар_фуэрте",
+        "icon": "Bs",
+        "name": "Bolivar<a href=\"#cite_note-14\">[14]</a>",
+        "code": "VEF",
+        "countries": [
+            {
+                "title": "Венесуэла",
+                "wiki": "https://ru.wikipedia.org/wiki/Венесуэла"
+            }
+        ]
+    },
+    "VND": {
+        "title": "Донг",
+        "wiki": "https://ru.wikipedia.org/wiki/Донг",
+        "icon": "₫",
+        "name": "Dong",
+        "code": "VND",
+        "countries": [
+            {
+                "title": "Вьетнам",
+                "wiki": "https://ru.wikipedia.org/wiki/Вьетнам"
+            }
+        ]
+    },
+    "XAF": {
+        "title": "Франк (франк КФА BEAC)",
+        "wiki": "https://ru.wikipedia.org/wiki/XAF",
+        "icon": "₣",
+        "name": "CFA Franc BEAC",
+        "code": "XAF",
+        "countries": [
+            {
+                "title": "Габон",
+                "wiki": "https://ru.wikipedia.org/wiki/Габон"
+            },
+            {
+                "title": "Камерун",
+                "wiki": "https://ru.wikipedia.org/wiki/Камерун"
+            },
+            {
+                "title": "Республика Конго",
+                "wiki": "https://ru.wikipedia.org/wiki/Республика_Конго"
+            },
+            {
+                "title": "ЦАР",
+                "wiki": "https://ru.wikipedia.org/wiki/Центральноафриканская_Республика"
+            },
+            {
+                "title": "Чад",
+                "wiki": "https://ru.wikipedia.org/wiki/Чад"
+            },
+            {
+                "title": "Экваториальная Гвинея",
+                "wiki": "https://ru.wikipedia.org/wiki/Экваториальная_Гвинея"
+            }
+        ]
+    },
+    "HTG": {
+        "title": "Гурд",
+        "wiki": "https://ru.wikipedia.org/wiki/Гурд",
+        "icon": "G",
+        "name": "Gourde",
+        "code": "HTG",
+        "countries": [
+            {
+                "title": "Гаити",
+                "wiki": "https://ru.wikipedia.org/wiki/Республика_Гаити"
+            }
+        ]
+    },
+    "GYD": {
+        "title": "Доллар (гайанский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Гайанский_доллар",
+        "icon": "$",
+        "name": "Guyana Dollar",
+        "code": "GYD",
+        "countries": [
+            {
+                "title": "Гайана",
+                "wiki": "https://ru.wikipedia.org/wiki/Гайана"
+            }
+        ]
+    },
+    "GMD": {
+        "title": "Даласи",
+        "wiki": "https://ru.wikipedia.org/wiki/Даласи",
+        "icon": "D",
+        "name": "Dalasi",
+        "code": "GMD",
+        "countries": [
+            {
+                "title": "Гамбия",
+                "wiki": "https://ru.wikipedia.org/wiki/Гамбия"
+            }
+        ]
+    },
+    "GHS": {
+        "title": "Седи (ганский седи)",
+        "wiki": "https://ru.wikipedia.org/wiki/Ганский_седи",
+        "icon": "₵",
+        "name": "Ghana Cedi",
+        "code": "GHS",
+        "countries": [
+            {
+                "title": "Гана",
+                "wiki": "https://ru.wikipedia.org/wiki/Гана"
+            }
+        ]
+    },
+    "GTQ": {
+        "title": "Кетсаль",
+        "wiki": "https://ru.wikipedia.org/wiki/Гватемальский_кетсаль",
+        "icon": "Q",
+        "name": "Quetzal",
+        "code": "GTQ",
+        "countries": [
+            {
+                "title": "Гватемала",
+                "wiki": "https://ru.wikipedia.org/wiki/Гватемала"
+            }
+        ]
+    },
+    "GNF": {
+        "title": "Франк (гвинейский франк)",
+        "wiki": "https://ru.wikipedia.org/wiki/Гвинейский_франк",
+        "icon": "₣",
+        "name": "Guinea Franc",
+        "code": "GNF",
+        "countries": [
+            {
+                "title": "Гвинея",
+                "wiki": "https://ru.wikipedia.org/wiki/Гвинея"
+            }
+        ]
+    },
+    "GBP": {
+        "title": "Фунт (фунт стерлингов)",
+        "wiki": "https://ru.wikipedia.org/wiki/GBP",
+        "icon": "£",
+        "name": "Pound Sterling",
+        "code": "GBP",
+        "countries": [
+            {
+                "title": "Гернси",
+                "wiki": "https://ru.wikipedia.org/wiki/Гернси"
+            },
+            {
+                "title": "Джерси",
+                "wiki": "https://ru.wikipedia.org/wiki/Джерси_(остров)"
+            },
+            {
+                "title": "Мэн",
+                "wiki": "https://ru.wikipedia.org/wiki/Остров_Мэн"
+            },
+            {
+                "title": "Великобритания",
+                "wiki": "https://ru.wikipedia.org/wiki/Великобритания"
+            }
+        ]
+    },
+    "GIP": {
+        "title": "Фунт (гибралтарский фунт)",
+        "wiki": "https://ru.wikipedia.org/wiki/Гибралтарский_фунт",
+        "icon": "£",
+        "name": "Gibraltar Pound",
+        "code": "GIP",
+        "countries": [
+            {
+                "title": "Гибралтар",
+                "wiki": "https://ru.wikipedia.org/wiki/Гибралтар"
+            }
+        ]
+    },
+    "HNL": {
+        "title": "Лемпира",
+        "wiki": "https://ru.wikipedia.org/wiki/Гондурасская_лемпира",
+        "icon": "L",
+        "name": "Lempira",
+        "code": "HNL",
+        "countries": [
+            {
+                "title": "Гондурас",
+                "wiki": "https://ru.wikipedia.org/wiki/Гондурас"
+            }
+        ]
+    },
+    "HKD": {
+        "title": "Доллар (гонконгский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/HKD",
+        "icon": "$",
+        "name": "Hong Kong Dollar",
+        "code": "HKD",
+        "countries": [
+            {
+                "title": "Гонконг",
+                "wiki": "https://ru.wikipedia.org/wiki/Гонконг"
+            }
+        ]
+    },
+    "DKK": {
+        "title": "Крона (датская крона)",
+        "wiki": "https://ru.wikipedia.org/wiki/DKK",
+        "icon": "kr",
+        "name": "Danish Krone",
+        "code": "DKK",
+        "countries": [
+            {
+                "title": "Гренландия",
+                "wiki": "https://ru.wikipedia.org/wiki/Гренландия"
+            },
+            {
+                "title": "Дания",
+                "wiki": "https://ru.wikipedia.org/wiki/Дания"
+            },
+            {
+                "title": "Фареры",
+                "wiki": "https://ru.wikipedia.org/wiki/Фарерские_острова"
+            }
+        ]
+    },
+    "GEL": {
+        "title": "Лари",
+        "wiki": "https://ru.wikipedia.org/wiki/Лари",
+        "icon": "₾",
+        "name": "Lari",
+        "code": "GEL",
+        "countries": [
+            {
+                "title": "Грузия",
+                "wiki": "https://ru.wikipedia.org/wiki/Грузия"
+            }
+        ]
+    },
+    "DJF": {
+        "title": "Франк (франк Джибути)",
+        "wiki": "https://ru.wikipedia.org/wiki/Франк_Джибути",
+        "icon": "₣",
+        "name": "Djibouti Franc",
+        "code": "DJF",
+        "countries": [
+            {
+                "title": "Джибути",
+                "wiki": "https://ru.wikipedia.org/wiki/Джибути"
+            }
+        ]
+    },
+    "DOP": {
+        "title": "Песо (доминиканское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доминиканское_песо",
+        "icon": "$",
+        "name": "Dominican Peso",
+        "code": "DOP",
+        "countries": [
+            {
+                "title": "Доминиканская Республика",
+                "wiki": "https://ru.wikipedia.org/wiki/Доминиканская_Республика"
+            }
+        ]
+    },
+    "EGP": {
+        "title": "Фунт (египетский фунт)",
+        "wiki": "https://ru.wikipedia.org/wiki/Египетский_фунт",
+        "icon": ".ج.م • LE",
+        "name": "Egyptian Pound",
+        "code": "EGP",
+        "countries": [
+            {
+                "title": "Египет",
+                "wiki": "https://ru.wikipedia.org/wiki/Египет"
+            }
+        ]
+    },
+    "ZMW": {
+        "title": "Квача (замбийская квача)",
+        "wiki": "https://ru.wikipedia.org/wiki/Замбийская_квача",
+        "icon": "K",
+        "name": "Zambian Kwacha",
+        "code": "ZMW",
+        "countries": [
+            {
+                "title": "Замбия",
+                "wiki": "https://ru.wikipedia.org/wiki/Замбия"
+            }
+        ]
+    },
+    "MAD": {
+        "title": "Дирхам (марокканский дирхам)",
+        "wiki": "https://ru.wikipedia.org/wiki/Марокканский_дирхам",
+        "icon": ".د.م • Dh",
+        "name": "Moroccan Dirham",
+        "code": "MAD",
+        "countries": [
+            {
+                "title": "Западная Сахара",
+                "wiki": "https://ru.wikipedia.org/wiki/Сахарская_Арабская_Демократическая_Республика"
+            },
+            {
+                "title": "Марокко",
+                "wiki": "https://ru.wikipedia.org/wiki/Марокко"
+            }
+        ]
+    },
+    "ZWL": {
+        "title": "Доллар (доллар Зимбабве)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доллар_Зимбабве",
+        "icon": "Z$",
+        "name": "Zimbabwe Dollar",
+        "code": "ZWL",
+        "countries": [
+            {
+                "title": "Зимбабве",
+                "wiki": "https://ru.wikipedia.org/wiki/Зимбабве"
+            }
+        ]
+    },
+    "ILS": {
+        "title": "Шекель (новый израильский шекель)",
+        "wiki": "https://ru.wikipedia.org/wiki/Новый_израильский_шекель",
+        "icon": "₪",
+        "name": "New Israeli Sheqel",
+        "code": "ILS",
+        "countries": [
+            {
+                "title": "Израиль",
+                "wiki": "https://ru.wikipedia.org/wiki/Израиль"
+            }
+        ]
+    },
+    "INR": {
+        "title": "Рупия (индийская рупия)",
+        "wiki": "https://ru.wikipedia.org/wiki/Индийская_рупия",
+        "icon": "₹",
+        "name": "Indian Rupee",
+        "code": "INR",
+        "countries": [
+            {
+                "title": "Индия",
+                "wiki": "https://ru.wikipedia.org/wiki/Индия"
+            }
+        ]
+    },
+    "IDR": {
+        "title": "Рупия",
+        "wiki": "https://ru.wikipedia.org/wiki/Индонезийская_рупия",
+        "icon": "Rp",
+        "name": "Rupiah",
+        "code": "IDR",
+        "countries": [
+            {
+                "title": "Индонезия",
+                "wiki": "https://ru.wikipedia.org/wiki/Индонезия"
+            }
+        ]
+    },
+    "JOD": {
+        "title": "Динар (иорданский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Иорданский_динар",
+        "icon": ".د.إ • JD",
+        "name": "Jordanian Dinar",
+        "code": "JOD",
+        "countries": [
+            {
+                "title": "Иордания",
+                "wiki": "https://ru.wikipedia.org/wiki/Иордания"
+            }
+        ]
+    },
+    "IQD": {
+        "title": "Динар (иракский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Иракский_динар",
+        "icon": ".د.ع • ID",
+        "name": "Iraqi Dinar",
+        "code": "IQD",
+        "countries": [
+            {
+                "title": "Ирак",
+                "wiki": "https://ru.wikipedia.org/wiki/Ирак"
+            }
+        ]
+    },
+    "IRR": {
+        "title": "Риал (иранский риал)",
+        "wiki": "https://ru.wikipedia.org/wiki/Иранский_риал",
+        "icon": "﷼ • IR",
+        "name": "Iranian Rial",
+        "code": "IRR",
+        "countries": [
+            {
+                "title": "Иран",
+                "wiki": "https://ru.wikipedia.org/wiki/Иран"
+            }
+        ]
+    },
+    "ISK": {
+        "title": "Крона (исландская крона)",
+        "wiki": "https://ru.wikipedia.org/wiki/Исландская_крона",
+        "icon": "kr",
+        "name": "Iceland Krona",
+        "code": "ISK",
+        "countries": [
+            {
+                "title": "Исландия",
+                "wiki": "https://ru.wikipedia.org/wiki/Исландия"
+            }
+        ]
+    },
+    "YER": {
+        "title": "Риал (йеменский риал)",
+        "wiki": "https://ru.wikipedia.org/wiki/Йеменский_риал",
+        "icon": "﷼ • YR",
+        "name": "Yemeni Rial",
+        "code": "YER",
+        "countries": [
+            {
+                "title": "Йемен",
+                "wiki": "https://ru.wikipedia.org/wiki/Йемен"
+            }
+        ]
+    },
+    "CVE": {
+        "title": "Эскудо (эскудо Кабо-Верде)",
+        "wiki": "https://ru.wikipedia.org/wiki/Эскудо_Кабо-Верде",
+        "icon": "$",
+        "name": "Cape Verde Escudo",
+        "code": "CVE",
+        "countries": [
+            {
+                "title": "Кабо-Верде",
+                "wiki": "https://ru.wikipedia.org/wiki/Кабо-Верде"
+            }
+        ]
+    },
+    "KZT": {
+        "title": "Тенге",
+        "wiki": "https://ru.wikipedia.org/wiki/Тенге",
+        "icon": "₸",
+        "name": "Tenge",
+        "code": "KZT",
+        "countries": [
+            {
+                "title": "Казахстан",
+                "wiki": "https://ru.wikipedia.org/wiki/Казахстан"
+            }
+        ]
+    },
+    "KYD": {
+        "title": "Доллар (доллар Островов Кайман)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доллар_Каймановых_островов",
+        "icon": "$",
+        "name": "Cayman Islands Dollar",
+        "code": "KYD",
+        "countries": [
+            {
+                "title": "Острова Кайман",
+                "wiki": "https://ru.wikipedia.org/wiki/Острова_Кайман"
+            }
+        ]
+    },
+    "KHR": {
+        "title": "Риель",
+        "wiki": "https://ru.wikipedia.org/wiki/Риель",
+        "icon": "៛",
+        "name": "Riel",
+        "code": "KHR",
+        "countries": [
+            {
+                "title": "Камбоджа",
+                "wiki": "https://ru.wikipedia.org/wiki/Камбоджа"
+            }
+        ]
+    },
+    "CAD": {
+        "title": "Доллар (канадский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Канадский_доллар",
+        "icon": "$",
+        "name": "Canadian Dollar",
+        "code": "CAD",
+        "countries": [
+            {
+                "title": "Канада",
+                "wiki": "https://ru.wikipedia.org/wiki/Канада"
+            }
+        ]
+    },
+    "QAR": {
+        "title": "Риал (катарский риал)",
+        "wiki": "https://ru.wikipedia.org/wiki/Катарский_риал",
+        "icon": "﷼ • QR",
+        "name": "Qatari Rial",
+        "code": "QAR",
+        "countries": [
+            {
+                "title": "Катар",
+                "wiki": "https://ru.wikipedia.org/wiki/Катар"
+            }
+        ]
+    },
+    "KES": {
+        "title": "Шиллинг (кенийский шиллинг)",
+        "wiki": "https://ru.wikipedia.org/wiki/Кенийский_шиллинг",
+        "icon": "KSh",
+        "name": "Kenyan Shilling",
+        "code": "KES",
+        "countries": [
+            {
+                "title": "Кения",
+                "wiki": "https://ru.wikipedia.org/wiki/Кения"
+            }
+        ]
+    },
+    "KGS": {
+        "title": "Сом",
+        "wiki": "https://ru.wikipedia.org/wiki/Киргизский_сом",
+        "icon": "с",
+        "name": "Som",
+        "code": "KGS",
+        "countries": [
+            {
+                "title": "Киргизия",
+                "wiki": "https://ru.wikipedia.org/wiki/Киргизия"
+            }
+        ]
+    },
+    "CNY": {
+        "title": "Юань",
+        "wiki": "https://ru.wikipedia.org/wiki/Китайский_юань",
+        "icon": "¥",
+        "name": "Yuan Renminbi",
+        "code": "CNY",
+        "countries": [
+            {
+                "title": "КНР",
+                "wiki": "https://ru.wikipedia.org/wiki/Китайская_Народная_Республика"
+            }
+        ]
+    },
+    "COP": {
+        "title": "Песо (колумбийское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Колумбийское_песо",
+        "icon": "$",
+        "name": "Colombian Peso",
+        "code": "COP",
+        "countries": [
+            {
+                "title": "Колумбия",
+                "wiki": "https://ru.wikipedia.org/wiki/Колумбия"
+            }
+        ]
+    },
+    "KMF": {
+        "title": "Франк (франк Комор)",
+        "wiki": "https://ru.wikipedia.org/wiki/Франк_Комор",
+        "icon": "₣",
+        "name": "Comoro Franc",
+        "code": "KMF",
+        "countries": [
+            {
+                "title": "Коморы",
+                "wiki": "https://ru.wikipedia.org/wiki/Коморы"
+            }
+        ]
+    },
+    "CDF": {
+        "title": "Франк (конголезский франк)",
+        "wiki": "https://ru.wikipedia.org/wiki/Конголезский_франк",
+        "icon": "₣",
+        "name": "Congolese Franc",
+        "code": "CDF",
+        "countries": [
+            {
+                "title": "Демократическая Республика Конго",
+                "wiki": "https://ru.wikipedia.org/wiki/Демократическая_Республика_Конго"
+            }
+        ]
+    },
+    "KPW": {
+        "title": "Вона (северокорейская вона)",
+        "wiki": "https://ru.wikipedia.org/wiki/Северокорейская_вона",
+        "icon": "원",
+        "name": "North Korean Won",
+        "code": "KPW",
+        "countries": [
+            {
+                "title": "КНДР",
+                "wiki": "https://ru.wikipedia.org/wiki/Корейская_Народно-Демократическая_Республика"
+            }
+        ]
+    },
+    "KRW": {
+        "title": "Вона",
+        "wiki": "https://ru.wikipedia.org/wiki/Южнокорейская_вона",
+        "icon": "₩",
+        "name": "Won",
+        "code": "KRW",
+        "countries": [
+            {
+                "title": "Республика Корея",
+                "wiki": "https://ru.wikipedia.org/wiki/Республика_Корея"
+            }
+        ]
+    },
+    "CRC": {
+        "title": "Колон (коста-риканский колон)",
+        "wiki": "https://ru.wikipedia.org/wiki/Коста-риканский_колон",
+        "icon": "₡",
+        "name": "Costa Rican Colon",
+        "code": "CRC",
+        "countries": [
+            {
+                "title": "Коста-Рика",
+                "wiki": "https://ru.wikipedia.org/wiki/Коста-Рика"
+            }
+        ]
+    },
+    "CUP": {
+        "title": "Песо (кубинское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Кубинское_песо",
+        "icon": "$",
+        "name": "Cuban Peso",
+        "code": "CUP",
+        "countries": [
+            {
+                "title": "Куба",
+                "wiki": "https://ru.wikipedia.org/wiki/Куба"
+            }
+        ]
+    },
+    "KWD": {
+        "title": "Динар (кувейтский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Кувейтский_динар",
+        "icon": ".د.ك • KD",
+        "name": "Kuwaiti Dinar",
+        "code": "KWD",
+        "countries": [
+            {
+                "title": "Кувейт",
+                "wiki": "https://ru.wikipedia.org/wiki/Кувейт"
+            }
+        ]
+    },
+    "ANG": {
+        "title": "Гульден (нидерландский антильский гульден)",
+        "wiki": "https://ru.wikipedia.org/wiki/ANG",
+        "icon": "ƒ",
+        "name": "Netherlands Antillean Guilder",
+        "code": "ANG",
+        "countries": [
+            {
+                "title": "Кюрасао",
+                "wiki": "https://ru.wikipedia.org/wiki/Кюрасао"
+            },
+            {
+                "title": "Синт-Мартен",
+                "wiki": "https://ru.wikipedia.org/wiki/Синт-Мартен"
+            }
+        ]
+    },
+    "LAK": {
+        "title": "Кип",
+        "wiki": "https://ru.wikipedia.org/wiki/Кип",
+        "icon": "₭",
+        "name": "Kip",
+        "code": "LAK",
+        "countries": [
+            {
+                "title": "Лаос",
+                "wiki": "https://ru.wikipedia.org/wiki/Лаос"
+            }
+        ]
+    },
+    "LSL": {
+        "title": "Лоти",
+        "wiki": "https://ru.wikipedia.org/wiki/Лоти_Лесото",
+        "icon": "L",
+        "name": "Loti",
+        "code": "LSL",
+        "countries": [
+            {
+                "title": "Лесото",
+                "wiki": "https://ru.wikipedia.org/wiki/Лесото"
+            }
+        ]
+    },
+    "LRD": {
+        "title": "Доллар (либерийский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Либерийский_доллар",
+        "icon": "$",
+        "name": "Liberian Dollar",
+        "code": "LRD",
+        "countries": [
+            {
+                "title": "Либерия",
+                "wiki": "https://ru.wikipedia.org/wiki/Либерия"
+            }
+        ]
+    },
+    "LBP": {
+        "title": "Фунт (ливанский фунт)",
+        "wiki": "https://ru.wikipedia.org/wiki/Ливанский_фунт",
+        "icon": ".ل.ل",
+        "name": "Lebanese Pound",
+        "code": "LBP",
+        "countries": [
+            {
+                "title": "Ливан",
+                "wiki": "https://ru.wikipedia.org/wiki/Ливан"
+            }
+        ]
+    },
+    "LYD": {
+        "title": "Динар (ливийский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Ливийский_динар",
+        "icon": ".د.ل • LD",
+        "name": "Libyan Dinar",
+        "code": "LYD",
+        "countries": [
+            {
+                "title": "Ливия",
+                "wiki": "https://ru.wikipedia.org/wiki/Ливия"
+            }
+        ]
+    },
+    "CHF": {
+        "title": "Франк (швейцарский франк)",
+        "wiki": "https://ru.wikipedia.org/wiki/CHF",
+        "icon": "₣",
+        "name": "Swiss Franc",
+        "code": "CHF",
+        "countries": [
+            {
+                "title": "Лихтенштейн",
+                "wiki": "https://ru.wikipedia.org/wiki/Лихтенштейн"
+            },
+            {
+                "title": "Швейцария",
+                "wiki": "https://ru.wikipedia.org/wiki/Швейцария"
+            }
+        ]
+    },
+    "MUR": {
+        "title": "Рупия (маврикийская рупия)",
+        "wiki": "https://ru.wikipedia.org/wiki/Маврикийская_рупия",
+        "icon": "Re (мн. Rs)",
+        "name": "Mauritius Rupee",
+        "code": "MUR",
+        "countries": [
+            {
+                "title": "Маврикий",
+                "wiki": "https://ru.wikipedia.org/wiki/Маврикий"
+            }
+        ]
+    },
+    "MRO": {
+        "title": "Угия",
+        "wiki": "https://ru.wikipedia.org/wiki/Угия",
+        "icon": "UM",
+        "name": "Ouguiya",
+        "code": "MRO",
+        "countries": [
+            {
+                "title": "Мавритания",
+                "wiki": "https://ru.wikipedia.org/wiki/Мавритания"
+            }
+        ]
+    },
+    "MGA": {
+        "title": "Ариари (малагасийский ариари)",
+        "wiki": "https://ru.wikipedia.org/wiki/Малагасийский_ариари",
+        "icon": "Ar.",
+        "name": "Malagasy Ariary",
+        "code": "MGA",
+        "countries": [
+            {
+                "title": "Мадагаскар",
+                "wiki": "https://ru.wikipedia.org/wiki/Мадагаскар"
+            }
+        ]
+    },
+    "MOP": {
+        "title": "Патака",
+        "wiki": "https://ru.wikipedia.org/wiki/Патака_Макао",
+        "icon": "$",
+        "name": "Pataca",
+        "code": "MOP",
+        "countries": [
+            {
+                "title": "Макао",
+                "wiki": "https://ru.wikipedia.org/wiki/Макао"
+            }
+        ]
+    },
+    "MKD": {
+        "title": "Денар",
+        "wiki": "https://ru.wikipedia.org/wiki/Македонский_денар",
+        "icon": "ден.",
+        "name": "Denar",
+        "code": "MKD",
+        "countries": [
+            {
+                "title": "Македония",
+                "wiki": "https://ru.wikipedia.org/wiki/Республика_Македония"
+            }
+        ]
+    },
+    "MWK": {
+        "title": "Квача",
+        "wiki": "https://ru.wikipedia.org/wiki/Малавийская_квача",
+        "icon": "K",
+        "name": "Kwacha",
+        "code": "MWK",
+        "countries": [
+            {
+                "title": "Малави",
+                "wiki": "https://ru.wikipedia.org/wiki/Малави"
+            }
+        ]
+    },
+    "MYR": {
+        "title": "Ринггит (малайзийский ринггит)",
+        "wiki": "https://ru.wikipedia.org/wiki/Ринггит",
+        "icon": "RM",
+        "name": "Malaysian Ringgit",
+        "code": "MYR",
+        "countries": [
+            {
+                "title": "Малайзия",
+                "wiki": "https://ru.wikipedia.org/wiki/Малайзия"
+            }
+        ]
+    },
+    "MVR": {
+        "title": "Руфия",
+        "wiki": "https://ru.wikipedia.org/wiki/Руфия",
+        "icon": ".ރ • Rf",
+        "name": "Rufiyaa",
+        "code": "MVR",
+        "countries": [
+            {
+                "title": "Мальдивы",
+                "wiki": "https://ru.wikipedia.org/wiki/Мальдивы"
+            }
+        ]
+    },
+    "MXN": {
+        "title": "Песо (мексиканское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Мексиканское_песо",
+        "icon": "$",
+        "name": "Mexican Peso",
+        "code": "MXN",
+        "countries": [
+            {
+                "title": "Мексика",
+                "wiki": "https://ru.wikipedia.org/wiki/Мексика"
+            }
+        ]
+    },
+    "MZN": {
+        "title": "Метикал (мозамбикский метикал)",
+        "wiki": "https://ru.wikipedia.org/wiki/Метикал",
+        "icon": "MT",
+        "name": "Mozambique Metical",
+        "code": "MZN",
+        "countries": [
+            {
+                "title": "Мозамбик",
+                "wiki": "https://ru.wikipedia.org/wiki/Мозамбик"
+            }
+        ]
+    },
+    "MDL": {
+        "title": "Лей (молдавский лей)",
+        "wiki": "https://ru.wikipedia.org/wiki/Молдавский_лей",
+        "icon": "L",
+        "name": "Moldovan Leu",
+        "code": "MDL",
+        "countries": [
+            {
+                "title": "Молдавия",
+                "wiki": "https://ru.wikipedia.org/wiki/Молдавия"
+            }
+        ]
+    },
+    "MNT": {
+        "title": "Тугрик",
+        "wiki": "https://ru.wikipedia.org/wiki/Тугрик",
+        "icon": "₮",
+        "name": "Tugrik",
+        "code": "MNT",
+        "countries": [
+            {
+                "title": "Монголия",
+                "wiki": "https://ru.wikipedia.org/wiki/Монголия"
+            }
+        ]
+    },
+    "MMK": {
+        "title": "Кьят",
+        "wiki": "https://ru.wikipedia.org/wiki/Кьят",
+        "icon": "K",
+        "name": "Kyat",
+        "code": "MMK",
+        "countries": [
+            {
+                "title": "Мьянма",
+                "wiki": "https://ru.wikipedia.org/wiki/Мьянма"
+            }
+        ]
+    },
+    "NAD": {
+        "title": "Доллар (доллар Намибии)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доллар_Намибии",
+        "icon": "N$",
+        "name": "Namibia Dollar",
+        "code": "NAD",
+        "countries": [
+            {
+                "title": "Намибия",
+                "wiki": "https://ru.wikipedia.org/wiki/Намибия"
+            }
+        ]
+    },
+    "NPR": {
+        "title": "Рупия (непальская рупия)",
+        "wiki": "https://ru.wikipedia.org/wiki/Непальская_рупия",
+        "icon": "Re (мн. Rs)",
+        "name": "Nepalese Rupee",
+        "code": "NPR",
+        "countries": [
+            {
+                "title": "Непал",
+                "wiki": "https://ru.wikipedia.org/wiki/Непал"
+            }
+        ]
+    },
+    "NGN": {
+        "title": "Найра",
+        "wiki": "https://ru.wikipedia.org/wiki/Найра",
+        "icon": "₦",
+        "name": "Naira",
+        "code": "NGN",
+        "countries": [
+            {
+                "title": "Нигерия",
+                "wiki": "https://ru.wikipedia.org/wiki/Нигерия"
+            }
+        ]
+    },
+    "NIO": {
+        "title": "Кордоба (золотая кордоба)",
+        "wiki": "https://ru.wikipedia.org/wiki/Золотая_кордоба",
+        "icon": "$",
+        "name": "Cordoba Oro",
+        "code": "NIO",
+        "countries": [
+            {
+                "title": "Никарагуа",
+                "wiki": "https://ru.wikipedia.org/wiki/Никарагуа"
+            }
+        ]
+    },
+    "NZD": {
+        "title": "Доллар (новозеландский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/NZD",
+        "icon": "$",
+        "name": "New Zealand Dollar",
+        "code": "NZD",
+        "countries": [
+            {
+                "title": "Ниуэ",
+                "wiki": "https://ru.wikipedia.org/wiki/Ниуэ"
+            },
+            {
+                "title": "Новая Зеландия",
+                "wiki": "https://ru.wikipedia.org/wiki/Новая_Зеландия"
+            },
+            {
+                "title": "Острова Кука",
+                "wiki": "https://ru.wikipedia.org/wiki/Острова_Кука"
+            },
+            {
+                "title": "Острова Питкэрн",
+                "wiki": "https://ru.wikipedia.org/wiki/Острова_Питкэрн"
+            },
+            {
+                "title": "Токелау",
+                "wiki": "https://ru.wikipedia.org/wiki/Токелау"
+            }
+        ]
+    },
+    "XPF": {
+        "title": "Франк (франк КФП)",
+        "wiki": "https://ru.wikipedia.org/wiki/XPF",
+        "icon": "₣",
+        "name": "CFP Franc",
+        "code": "XPF",
+        "countries": [
+            {
+                "title": "Новая Каледония",
+                "wiki": "https://ru.wikipedia.org/wiki/Новая_Каледония"
+            },
+            {
+                "title": "Уоллис и Футуна",
+                "wiki": "https://ru.wikipedia.org/wiki/Уоллис_и_Футуна"
+            },
+            {
+                "title": "Французская Полинезия",
+                "wiki": "https://ru.wikipedia.org/wiki/Французская_Полинезия"
+            }
+        ]
+    },
+    "NOK": {
+        "title": "Крона (норвежская крона)",
+        "wiki": "https://ru.wikipedia.org/wiki/NOK",
+        "icon": "kr",
+        "name": "Norwegian Krone",
+        "code": "NOK",
+        "countries": [
+            {
+                "title": "Норвегия",
+                "wiki": "https://ru.wikipedia.org/wiki/Норвегия"
+            },
+            {
+                "title": "Остров Буве",
+                "wiki": "https://ru.wikipedia.org/wiki/Остров_Буве"
+            },
+            {
+                "title": "Шпицберген и Ян-Майен",
+                "wiki": "https://ru.wikipedia.org/wiki/Шпицберген_и_Ян-Майен"
+            }
+        ]
+    },
+    "AED": {
+        "title": "Дирхам (дирхам ОАЭ)",
+        "wiki": "https://ru.wikipedia.org/wiki/Дирхам_ОАЭ",
+        "icon": ".د.إ • Dh",
+        "name": "UAE Dirham",
+        "code": "AED",
+        "countries": [
+            {
+                "title": "ОАЭ",
+                "wiki": "https://ru.wikipedia.org/wiki/Объединённые_Арабские_Эмираты"
+            }
+        ]
+    },
+    "OMR": {
+        "title": "Риал (оманский риал)",
+        "wiki": "https://ru.wikipedia.org/wiki/Оманский_риал",
+        "icon": "﷼ • RO",
+        "name": "Rial Omani",
+        "code": "OMR",
+        "countries": [
+            {
+                "title": "Оман",
+                "wiki": "https://ru.wikipedia.org/wiki/Оман"
+            }
+        ]
+    },
+    "PKR": {
+        "title": "Рупия (пакистанская рупия)",
+        "wiki": "https://ru.wikipedia.org/wiki/Пакистанская_рупия",
+        "icon": "Re (мн. Rs)",
+        "name": "Pakistan Rupee",
+        "code": "PKR",
+        "countries": [
+            {
+                "title": "Пакистан",
+                "wiki": "https://ru.wikipedia.org/wiki/Пакистан"
+            }
+        ]
+    },
+    "PAB": {
+        "title": "Бальбоа",
+        "wiki": "https://ru.wikipedia.org/wiki/Панамский_бальбоа",
+        "icon": "B/.",
+        "name": "Balboa",
+        "code": "PAB",
+        "countries": [
+            {
+                "title": "Панама",
+                "wiki": "https://ru.wikipedia.org/wiki/Панама"
+            }
+        ]
+    },
+    "PGK": {
+        "title": "Кина",
+        "wiki": "https://ru.wikipedia.org/wiki/Кина",
+        "icon": "K",
+        "name": "Kina",
+        "code": "PGK",
+        "countries": [
+            {
+                "title": "Папуа — Новая Гвинея",
+                "wiki": "https://ru.wikipedia.org/wiki/Папуа_—_Новая_Гвинея"
+            }
+        ]
+    },
+    "PYG": {
+        "title": "Гуарани",
+        "wiki": "https://ru.wikipedia.org/wiki/Парагвайский_гуарани",
+        "icon": "₲",
+        "name": "Guarani",
+        "code": "PYG",
+        "countries": [
+            {
+                "title": "Парагвай",
+                "wiki": "https://ru.wikipedia.org/wiki/Парагвай"
+            }
+        ]
+    },
+    "PEN": {
+        "title": "Соль (новый соль)",
+        "wiki": "https://ru.wikipedia.org/wiki/Новый_соль",
+        "icon": "S/",
+        "name": "Nuevo Sol",
+        "code": "PEN",
+        "countries": [
+            {
+                "title": "Перу",
+                "wiki": "https://ru.wikipedia.org/wiki/Перу"
+            }
+        ]
+    },
+    "PLN": {
+        "title": "Злотый",
+        "wiki": "https://ru.wikipedia.org/wiki/Злотый",
+        "icon": "zł",
+        "name": "Zloty",
+        "code": "PLN",
+        "countries": [
+            {
+                "title": "Польша",
+                "wiki": "https://ru.wikipedia.org/wiki/Польша"
+            }
+        ]
+    },
+    "RUB": {
+        "title": "Рубль (российский рубль)",
+        "wiki": "https://ru.wikipedia.org/wiki/RUB",
+        "icon": "₽",
+        "name": "Russian Ruble",
+        "code": "RUB",
+        "countries": [
+            {
+                "title": "Россия",
+                "wiki": "https://ru.wikipedia.org/wiki/Россия"
+            }
+        ]
+    },
+    "RWF": {
+        "title": "Франк (франк Руанды)",
+        "wiki": "https://ru.wikipedia.org/wiki/Руандийский_франк",
+        "icon": "₣",
+        "name": "Rwanda Franc",
+        "code": "RWF",
+        "countries": [
+            {
+                "title": "Руанда",
+                "wiki": "https://ru.wikipedia.org/wiki/Руанда"
+            }
+        ]
+    },
+    "RON": {
+        "title": "Лей (новый румынский лей)",
+        "wiki": "https://ru.wikipedia.org/wiki/Новый_румынский_лей",
+        "icon": "L",
+        "name": "Romanian Leu",
+        "code": "RON",
+        "countries": [
+            {
+                "title": "Румыния",
+                "wiki": "https://ru.wikipedia.org/wiki/Румыния"
+            }
+        ]
+    },
+    "SVC": {
+        "title": "Колон (сальвадорский колон)",
+        "wiki": "https://ru.wikipedia.org/wiki/Сальвадорский_колон",
+        "icon": "₡",
+        "name": "El Salvador Colon",
+        "code": "SVC",
+        "countries": [
+            {
+                "title": "Сальвадор",
+                "wiki": "https://ru.wikipedia.org/wiki/Сальвадор"
+            }
+        ]
+    },
+    "WST": {
+        "title": "Тала",
+        "wiki": "https://ru.wikipedia.org/wiki/Самоанская_тала",
+        "icon": "$",
+        "name": "Tala",
+        "code": "WST",
+        "countries": [
+            {
+                "title": "Самоа",
+                "wiki": "https://ru.wikipedia.org/wiki/Самоа"
+            }
+        ]
+    },
+    "STD": {
+        "title": "Добра",
+        "wiki": "https://ru.wikipedia.org/wiki/Добра_Сан-Томе_и_Принсипи",
+        "icon": "Db",
+        "name": "Dobra",
+        "code": "STD",
+        "countries": [
+            {
+                "title": "Сан-Томе и Принсипи",
+                "wiki": "https://ru.wikipedia.org/wiki/Сан-Томе_и_Принсипи"
+            }
+        ]
+    },
+    "SAR": {
+        "title": "Риял (саудовский риял)",
+        "wiki": "https://ru.wikipedia.org/wiki/Саудовский_риял",
+        "icon": "﷼ • SR",
+        "name": "Saudi Riyal",
+        "code": "SAR",
+        "countries": [
+            {
+                "title": "Саудовская Аравия",
+                "wiki": "https://ru.wikipedia.org/wiki/Саудовская_Аравия"
+            }
+        ]
+    },
+    "SZL": {
+        "title": "Лилангени",
+        "wiki": "https://ru.wikipedia.org/wiki/Лилангени",
+        "icon": "L",
+        "name": "Lilangeni",
+        "code": "SZL",
+        "countries": [
+            {
+                "title": "Свазиленд",
+                "wiki": "https://ru.wikipedia.org/wiki/Свазиленд"
+            }
+        ]
+    },
+    "SHP": {
+        "title": "Фунт (фунт Святой Елены)",
+        "wiki": "https://ru.wikipedia.org/wiki/Фунт_Святой_Елены",
+        "icon": "£",
+        "name": "Saint Helena Pound",
+        "code": "SHP",
+        "countries": [
+            {
+                "title": "Остров Святой Елены",
+                "wiki": "https://ru.wikipedia.org/wiki/Остров_Святой_Елены"
+            }
+        ]
+    },
+    "SCR": {
+        "title": "Рупия (сейшельская рупия)",
+        "wiki": "https://ru.wikipedia.org/wiki/Сейшельская_рупия",
+        "icon": "Re (мн. Rs)",
+        "name": "Seychelles Rupee",
+        "code": "SCR",
+        "countries": [
+            {
+                "title": "Сейшельские Острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Сейшельские_Острова"
+            }
+        ]
+    },
+    "RSD": {
+        "title": "Динар (сербский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Сербский_динар",
+        "icon": "din. • дин.",
+        "name": "Serbian Dinar",
+        "code": "RSD",
+        "countries": [
+            {
+                "title": "Сербия",
+                "wiki": "https://ru.wikipedia.org/wiki/Сербия"
+            }
+        ]
+    },
+    "SGD": {
+        "title": "Доллар (сингапурский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/SGD",
+        "icon": "$",
+        "name": "Singapore Dollar",
+        "code": "SGD",
+        "countries": [
+            {
+                "title": "Сингапур",
+                "wiki": "https://ru.wikipedia.org/wiki/Сингапур"
+            }
+        ]
+    },
+    "SYP": {
+        "title": "Фунт (сирийский фунт)",
+        "wiki": "https://ru.wikipedia.org/wiki/Сирийский_фунт",
+        "icon": ".ل.س • S£",
+        "name": "Syrian Pound",
+        "code": "SYP",
+        "countries": [
+            {
+                "title": "Сирия",
+                "wiki": "https://ru.wikipedia.org/wiki/Сирия"
+            }
+        ]
+    },
+    "SBD": {
+        "title": "Доллар (доллар Соломоновых Островов)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доллар_Соломоновых_Островов",
+        "icon": "$",
+        "name": "Solomon Islands Dollar",
+        "code": "SBD",
+        "countries": [
+            {
+                "title": "Соломоновы Острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Соломоновы_Острова"
+            }
+        ]
+    },
+    "SOS": {
+        "title": "Шиллинг (сомалийский шиллинг)",
+        "wiki": "https://ru.wikipedia.org/wiki/Сомалийский_шиллинг",
+        "icon": "S",
+        "name": "Somali Shilling",
+        "code": "SOS",
+        "countries": [
+            {
+                "title": "Сомали",
+                "wiki": "https://ru.wikipedia.org/wiki/Сомали"
+            }
+        ]
+    },
+    "SDG": {
+        "title": "Фунт (суданский фунт)",
+        "wiki": "https://ru.wikipedia.org/wiki/Суданский_фунт",
+        "icon": "£",
+        "name": "Sudanese Pound",
+        "code": "SDG",
+        "countries": [
+            {
+                "title": "Судан",
+                "wiki": "https://ru.wikipedia.org/wiki/Судан"
+            }
+        ]
+    },
+    "SRD": {
+        "title": "Доллар (суринамский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Суринамский_доллар",
+        "icon": "$",
+        "name": "Surinam Dollar",
+        "code": "SRD",
+        "countries": [
+            {
+                "title": "Суринам",
+                "wiki": "https://ru.wikipedia.org/wiki/Суринам"
+            }
+        ]
+    },
+    "SLL": {
+        "title": "Леоне",
+        "wiki": "https://ru.wikipedia.org/wiki/Леоне_Сьерра-Леоне",
+        "icon": "Le",
+        "name": "Leone",
+        "code": "SLL",
+        "countries": [
+            {
+                "title": "Сьерра-Леоне",
+                "wiki": "https://ru.wikipedia.org/wiki/Сьерра-Леоне"
+            }
+        ]
+    },
+    "TJS": {
+        "title": "Сомони",
+        "wiki": "https://ru.wikipedia.org/wiki/Сомони",
+        "icon": "с.",
+        "name": "Somoni",
+        "code": "TJS",
+        "countries": [
+            {
+                "title": "Таджикистан",
+                "wiki": "https://ru.wikipedia.org/wiki/Таджикистан"
+            }
+        ]
+    },
+    "THB": {
+        "title": "Бат",
+        "wiki": "https://ru.wikipedia.org/wiki/Тайский_бат",
+        "icon": "฿",
+        "name": "Baht",
+        "code": "THB",
+        "countries": [
+            {
+                "title": "Таиланд",
+                "wiki": "https://ru.wikipedia.org/wiki/Таиланд"
+            }
+        ]
+    },
+    "TWD": {
+        "title": "Доллар (новый тайваньский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/TWD",
+        "icon": "NT$",
+        "name": "New Taiwan Dollar",
+        "code": "TWD",
+        "countries": [
+            {
+                "title": "Китайская Республика",
+                "wiki": "https://ru.wikipedia.org/wiki/Китайская_Республика"
+            }
+        ]
+    },
+    "TZS": {
+        "title": "Шиллинг (танзанийский шиллинг)",
+        "wiki": "https://ru.wikipedia.org/wiki/Танзанийский_шиллинг",
+        "icon": "TSh",
+        "name": "Tanzanian Shilling",
+        "code": "TZS",
+        "countries": [
+            {
+                "title": "Танзания",
+                "wiki": "https://ru.wikipedia.org/wiki/Танзания"
+            }
+        ]
+    },
+    "TOP": {
+        "title": "Паанга",
+        "wiki": "https://ru.wikipedia.org/wiki/Паанга",
+        "icon": "$",
+        "name": "Pa’anga",
+        "code": "TOP",
+        "countries": [
+            {
+                "title": "Тонга",
+                "wiki": "https://ru.wikipedia.org/wiki/Тонга"
+            }
+        ]
+    },
+    "TTD": {
+        "title": "Доллар (доллар Тринидада и Тобаго)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доллар_Тринидада_и_Тобаго",
+        "icon": "$",
+        "name": "Trinidad and Tobago Dollar",
+        "code": "TTD",
+        "countries": [
+            {
+                "title": "Тринидад и Тобаго",
+                "wiki": "https://ru.wikipedia.org/wiki/Тринидад_и_Тобаго"
+            }
+        ]
+    },
+    "TND": {
+        "title": "Динар (тунисский динар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Тунисский_динар",
+        "icon": ".د.ت • TD",
+        "name": "Tunisian Dinar",
+        "code": "TND",
+        "countries": [
+            {
+                "title": "Тунис",
+                "wiki": "https://ru.wikipedia.org/wiki/Тунис"
+            }
+        ]
+    },
+    "TMT": {
+        "title": "Манат (новый туркменский манат)",
+        "wiki": "https://ru.wikipedia.org/wiki/Новый_туркменский_манат",
+        "icon": "m",
+        "name": "Turkmenistan New Manat",
+        "code": "TMT",
+        "countries": [
+            {
+                "title": "Туркмения",
+                "wiki": "https://ru.wikipedia.org/wiki/Туркмения"
+            }
+        ]
+    },
+    "TRY": {
+        "title": "Лира (турецкая лира)",
+        "wiki": "https://ru.wikipedia.org/wiki/Новая_турецкая_лира",
+        "icon": "₺",
+        "name": "Turkish Lira",
+        "code": "TRY",
+        "countries": [
+            {
+                "title": "Турция",
+                "wiki": "https://ru.wikipedia.org/wiki/Турция"
+            }
+        ]
+    },
+    "UGX": {
+        "title": "Шиллинг (угандийский шиллинг)",
+        "wiki": "https://ru.wikipedia.org/wiki/Угандийский_шиллинг",
+        "icon": "USh",
+        "name": "Uganda Shilling",
+        "code": "UGX",
+        "countries": [
+            {
+                "title": "Уганда",
+                "wiki": "https://ru.wikipedia.org/wiki/Уганда"
+            }
+        ]
+    },
+    "UZS": {
+        "title": "Сум (узбекский сум)",
+        "wiki": "https://ru.wikipedia.org/wiki/Узбекский_сум",
+        "icon": "so’m•сўм",
+        "name": "Uzbekistan Sum",
+        "code": "UZS",
+        "countries": [
+            {
+                "title": "Узбекистан",
+                "wiki": "https://ru.wikipedia.org/wiki/Узбекистан"
+            }
+        ]
+    },
+    "UAH": {
+        "title": "Гривна",
+        "wiki": "https://ru.wikipedia.org/wiki/Украинская_гривна",
+        "icon": "₴",
+        "name": "Hryvnia",
+        "code": "UAH",
+        "countries": [
+            {
+                "title": "Украина",
+                "wiki": "https://ru.wikipedia.org/wiki/Украина"
+            }
+        ]
+    },
+    "UYU": {
+        "title": "Песо (уругвайское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Уругвайское_песо",
+        "icon": "$",
+        "name": "Peso Uruguayo",
+        "code": "UYU",
+        "countries": [
+            {
+                "title": "Уругвай",
+                "wiki": "https://ru.wikipedia.org/wiki/Уругвай"
+            }
+        ]
+    },
+    "FJD": {
+        "title": "Доллар (доллар Фиджи)",
+        "wiki": "https://ru.wikipedia.org/wiki/Доллар_Фиджи",
+        "icon": "$",
+        "name": "Fiji Dollar",
+        "code": "FJD",
+        "countries": [
+            {
+                "title": "Фиджи",
+                "wiki": "https://ru.wikipedia.org/wiki/Фиджи"
+            }
+        ]
+    },
+    "PHP": {
+        "title": "Песо (филиппинское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Филиппинское_песо",
+        "icon": "₱",
+        "name": "Philippine Peso",
+        "code": "PHP",
+        "countries": [
+            {
+                "title": "Филиппины",
+                "wiki": "https://ru.wikipedia.org/wiki/Филиппины"
+            }
+        ]
+    },
+    "FKP": {
+        "title": "Фунт (фунт Фолклендских островов)",
+        "wiki": "https://ru.wikipedia.org/wiki/Фунт_Фолклендских_островов",
+        "icon": "£",
+        "name": "Falkland Islands Pound",
+        "code": "FKP",
+        "countries": [
+            {
+                "title": "Фолклендские острова",
+                "wiki": "https://ru.wikipedia.org/wiki/Фолклендские_острова"
+            }
+        ]
+    },
+    "HRK": {
+        "title": "Куна (хорватская куна)",
+        "wiki": "https://ru.wikipedia.org/wiki/Хорватская_куна",
+        "icon": "Kn",
+        "name": "Kuna",
+        "code": "HRK",
+        "countries": [
+            {
+                "title": "Хорватия",
+                "wiki": "https://ru.wikipedia.org/wiki/Хорватия"
+            }
+        ]
+    },
+    "CZK": {
+        "title": "Крона (чешская крона)",
+        "wiki": "https://ru.wikipedia.org/wiki/Чешская_крона",
+        "icon": "Kč",
+        "name": "Czech Koruna",
+        "code": "CZK",
+        "countries": [
+            {
+                "title": "Чехия",
+                "wiki": "https://ru.wikipedia.org/wiki/Чехия"
+            }
+        ]
+    },
+    "CLP": {
+        "title": "Песо (чилийское песо)",
+        "wiki": "https://ru.wikipedia.org/wiki/Чилийское_песо",
+        "icon": "$",
+        "name": "Chilean Peso",
+        "code": "CLP",
+        "countries": [
+            {
+                "title": "Чили",
+                "wiki": "https://ru.wikipedia.org/wiki/Чили"
+            }
+        ]
+    },
+    "SEK": {
+        "title": "Крона (шведская крона)",
+        "wiki": "https://ru.wikipedia.org/wiki/Шведская_крона",
+        "icon": "kr",
+        "name": "Swedish Krona",
+        "code": "SEK",
+        "countries": [
+            {
+                "title": "Швеция",
+                "wiki": "https://ru.wikipedia.org/wiki/Швеция"
+            }
+        ]
+    },
+    "LKR": {
+        "title": "Рупия (шри-ланкийская рупия)",
+        "wiki": "https://ru.wikipedia.org/wiki/Шри-Ланкийская_рупия",
+        "icon": "Re (мн. Rs)",
+        "name": "Sri Lanka Rupee",
+        "code": "LKR",
+        "countries": [
+            {
+                "title": "Шри-Ланка",
+                "wiki": "https://ru.wikipedia.org/wiki/Шри-Ланка"
+            }
+        ]
+    },
+    "ERN": {
+        "title": "Накфа",
+        "wiki": "https://ru.wikipedia.org/wiki/Эритрейская_накфа",
+        "icon": "Nfk",
+        "name": "Nakfa",
+        "code": "ERN",
+        "countries": [
+            {
+                "title": "Эритрея",
+                "wiki": "https://ru.wikipedia.org/wiki/Эритрея"
+            }
+        ]
+    },
+    "ETB": {
+        "title": "Быр (эфиопский быр)",
+        "wiki": "https://ru.wikipedia.org/wiki/Эфиопский_быр",
+        "icon": "Br",
+        "name": "Ethiopian Birr",
+        "code": "ETB",
+        "countries": [
+            {
+                "title": "Эфиопия",
+                "wiki": "https://ru.wikipedia.org/wiki/Эфиопия"
+            }
+        ]
+    },
+    "ZAR": {
+        "title": "Рэнд",
+        "wiki": "https://ru.wikipedia.org/wiki/ZAR",
+        "icon": "R",
+        "name": "Rand",
+        "code": "ZAR",
+        "countries": [
+            {
+                "title": "ЮАР",
+                "wiki": "https://ru.wikipedia.org/wiki/Южно-Африканская_Республика"
+            }
+        ]
+    },
+    "SSP": {
+        "title": "Фунт (южносуданский фунт)",
+        "wiki": "https://ru.wikipedia.org/wiki/Южно-Суданский_фунт",
+        "icon": "SSP",
+        "name": "South Sudanese Pound",
+        "code": "SSP",
+        "countries": [
+            {
+                "title": "Южный Судан",
+                "wiki": "https://ru.wikipedia.org/wiki/Южный_Судан"
+            }
+        ]
+    },
+    "JMD": {
+        "title": "Доллар (ямайский доллар)",
+        "wiki": "https://ru.wikipedia.org/wiki/Ямайский_доллар",
+        "icon": "$",
+        "name": "Jamaican Dollar",
+        "code": "JMD",
+        "countries": [
+            {
+                "title": "Ямайка",
+                "wiki": "https://ru.wikipedia.org/wiki/Ямайка"
+            }
+        ]
+    },
+    "JPY": {
+        "title": "Иена",
+        "wiki": "https://ru.wikipedia.org/wiki/JPY",
+        "icon": "¥",
+        "name": "Yen",
+        "code": "JPY",
+        "countries": [
+            {
+                "title": "Япония",
+                "wiki": "https://ru.wikipedia.org/wiki/Япония"
+            }
+        ]
+    }
+}
