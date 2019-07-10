@@ -17,7 +17,7 @@ abstract class AbstractProvider implements ProviderInterface
     protected $ttl = null;
 
     /** @var integer Приоритет опроса источника. */
-    protected $priority = 0;
+    protected $priority = null;
 
     /** @var array Кэш. */
     protected static $cache = [];
